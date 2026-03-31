@@ -42,6 +42,3 @@ The GitHub Actions workflow is defined in `.github/workflows/ci.yml`. It trigger
 
 ---
 
-## Certification
-
-Built as part of hands-on DevOps learning. AWS Cloud Practitioner certified — Amazon Web Services (2026).
