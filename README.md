@@ -1,6 +1,6 @@
 # CI/CD Pipeline with Docker and GitHub Actions
 
-Automated CI/CD pipeline that builds and pushes a Docker image to DockerHub on every GitHub push. No manual steps involved.
+Automated CI/CD pipeline that builds and pushes a Docker image to DockerHub on every GitHub push. No manual steps are involved.
 
 ---
 
